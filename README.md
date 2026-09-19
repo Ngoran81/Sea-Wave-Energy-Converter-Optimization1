@@ -167,9 +167,9 @@ Sea-Wave-Energy-Converter-Optimization/
 
 # 📄 Project Report
 
-The complete technical report is available in:
+The complete technical report is available below.
 
-**📄 report.pdf**
+📄 **[Download the Full Project Report (PDF)](report.pdf)**
 
 The report includes:
 
